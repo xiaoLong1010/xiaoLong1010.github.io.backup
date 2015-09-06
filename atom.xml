@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://xiaolong1010.github.io/atom.xml" rel="self"/>
   <link href="http://xiaolong1010.github.io/"/>
-  <updated>2015-09-06T20:54:38+08:00</updated>
+  <updated>2015-09-06T21:10:25+08:00</updated>
   <id>http://xiaolong1010.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello iOS]]></title>
+    <link href="http://xiaolong1010.github.io/blog/2015/09/06/hello-ios/"/>
+    <updated>2015-09-06T21:08:14+08:00</updated>
+    <id>http://xiaolong1010.github.io/blog/2015/09/06/hello-ios</id>
+    <content type="html"><![CDATA[<h1>概述</h1>
+
+<p>这个是第一篇文章。</p>
+]]></content>
+  </entry>
   
 </feed>
